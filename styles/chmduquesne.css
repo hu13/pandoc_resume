@@ -9,6 +9,14 @@
  */
 
 /* Whole document */
+
+.pvlogo img {
+    padding: 1%;
+    background-color: rgb(18, 26, 63);
+    color: white;
+    width: 7%;
+}
+
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     max-width: 800px;

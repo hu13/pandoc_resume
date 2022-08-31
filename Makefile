@@ -1,4 +1,7 @@
-OUT_DIR=output
+ifeq ($(OUT_DIR),)
+OUT_DIR := output
+endif
+
 IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne

@@ -1,100 +1,90 @@
-Johnny Coder
+Hangkun Ung
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> <hangkun.ung@gmail.com> [@hu13](https://github.com/hu13) +1 (401) 837 8258\
+> Cambridge, MA\
+>  a software engineer with strong interests for system programming, SDLC processes, and cloud computing.\
+> *(authorized to work for any employers in the US)*
+
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2014-2018
+:   **BSc, Computer Science and Applied Math**: Brown University, Providence, RI
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Courses:* Intro to Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography,
+Algorithms and Data Structures, Object-Oriented Programming, Probability Theory, Operations Research, Modern cryptography, Monte Carlo Simulation, Statistical Inference.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-Experience
+Work Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Senior Software Engineer,** *[PreVeil](https://www.preveil.com)*, Boston, MA, 2020-Present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Lead the feature development and maintainance of PreVeil's drive, an e2e encrypted, cloud-based file sharing system.
+    * Participate in architectural system design for PreVeil’s drive and its cryptographic key management.
+    * Modernize develepment with automated CI workflows that can be run locally as well as on GitHub action.
+* Design and implement automated CI/CD/QA workflows for various components using GitHub actions that streamline our build and test pipeline, which leads to reduce bill time and faster deployment.
+* Work with other engineers to define and perform ongoing improvement on PreVeil’s SDLC around code review, QA, releaser process, security and automation.
+* Mentor junior engineers and interns by organizing bi-weekly seminars and 1:1 meetings.
 
-* First item
+**Software Engineer,** *[PreVeil](https://www.preveil.com)*, Boston, MA, 2018-2020
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Contributed to building, testing the secure email mailbox management APIs for PreVeil’s IMAP and Crypto servers written in Python to be compatible with
+PreVeil’s, Outlook and MacMail email clients.
+* Built a cache module that manages Email metadata access between Email’s DB and PreVeil’s crypto server and improves the Email’s
+server performance by 15%.
+* Triaged and debug software defects encountered by the customers.
+* Developed and tested various PreVeil’s FE UI components in Angular and RxJS.
 
-**That Other Job You Had**
 
-Also with a short description.
+**Full-stack developer intern**, *Brown University's Computing and Information Services (CIS)*, Providence, RI, June - August 2016
+    
+* Designed MySQL database schemas and programmed them using Laravel’s ORM for a web application managing an editorial system
+which publishes over 130,000 reviews for courses taught at Brown. 
+* Coded RESTful APIs and built a UI using Vue.js and Semantic UI to
+manage the app’s editorial system.
+
+**TA for CSCI-0330: Intro to computer systems**, *Brown University's Computer Science Department*, Providence, RI, Fall 2016
+
+* Held lab and office hours to assist students with course concepts and programming assignments in C.
+* Implemented automated grading scripts for lab assignments.
+* Graded and provided feedback to students on their programming projects.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Open Source:
+:   contributed to:
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * *[gauth](https://github.com/pcarrier/gauth)*, a cross-platform 2FA client on your terminal.
+        * added support for different hash functions used by the OTP algorithm.
+        * added [goreleaser](https://goreleaser.com/) to automate the build and release pipeline on GitHub action.
+    * *[golang-cross](https://github.com/gythialy/golang-cross)*, a docker image for cross-compiling golang applications on various platforms.
+    * *[fsnotify](https://github.com/fsnotify/fsnotify)*, a library providing cross-platform filesystem notifications.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Tools & Framework:
+: *git, docker, linux, jira, confluence, GitHub action, bash, Postman*\
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Side Projects:
+:   
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+    * *[CODENAMES](https://github.com/hu13/codenames)*, a simple web app implemented using Laravel and Vue.js, which automatically generates a
+5-by-5 word cards of my favorite board game, *codenames*.
+    * *DS-Bot*, a webhook application that listens and receives a seller's commands via Facebook's messsenger chats and issues various APIs to a third-party POS system
+to automatically register new buyers and generate a pending sale receipt.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Programming Languages:
+: *golang, python, TypeScript, JavaScript, C*
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Misc
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+     * English
+     * Khmer (native speaker)
