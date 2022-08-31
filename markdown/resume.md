@@ -17,17 +17,18 @@ Education
 2014-2018
 :   **BSc, Computer Science and Applied Math**: Brown University, Providence, RI
 
-    *Courses:* Intro to Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography,
-Algorithms and Data Structures, Object-Oriented Programming, Probability Theory, Operations Research, Modern cryptography, Monte Carlo Simulation, Statistical Inference.
+    *Courses:* Intro to Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography, Modern cryptography,
+Algorithms and Data Structures, Object-Oriented Programming, Probability Theory, Operations Research, Monte Carlo Simulation, Statistical Inference.
 
 Work Experience
 ----------
 
 **Senior Software Engineer,** *[PreVeil](https://www.preveil.com)*, Boston, MA, 2020-Present
 
-* Lead the feature development and maintainance of PreVeil's drive, an e2e encrypted, cloud-based file sharing system.
+* Lead the feature development and maintainance of PreVeil's drive, an e2e encrypted, cloud-based storage and file sharing system.
     * Participate in architectural system design for PreVeil’s drive and its cryptographic key management.
     * Modernize develepment with automated CI workflows that can be run locally as well as on GitHub action.
+    * Implement continuous profiling and APM hooks to the application that allow us to run scalibility testing and automatically collect usage and performance logs. 
 * Design and implement automated CI/CD/QA workflows for various components using GitHub actions that streamline our build and test pipeline, which leads to reduce bill time and faster deployment.
 * Work with other engineers to define and perform ongoing improvement on PreVeil’s SDLC around code review, QA, releaser process, security and automation.
 * Mentor junior engineers and interns by organizing bi-weekly seminars and 1:1 meetings.
