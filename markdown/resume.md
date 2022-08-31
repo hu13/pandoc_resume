@@ -83,9 +83,9 @@ Programming Languages:
 : *golang, python, TypeScript, JavaScript, C*
 
 Misc
-----------------------------------------
+----
 
 * Human Languages:
 
-     * English
-     * Khmer (native speaker)
+    * English
+    * Khmer (native speaker)
