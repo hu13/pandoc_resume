@@ -1,23 +1,32 @@
 Hangkun Ung
 ============
 
+<style>
+mark{
+    text-align: center;
+    display: inherit;
+    background-color: white;
+}
+</style>
+
+<mark><hangkun.ung@gmail.com> [@hu13](https://github.com/hu13) +1 (401) 837-8258, Cambridge, MA</mark>
+
 ----
 
-> <hangkun.ung@gmail.com> [@hu13](https://github.com/hu13) +1 (401) 837 8258\
-> Cambridge, MA\
->  a software engineer with strong interests for system programming, SDLC processes, and cloud computing.\
+>  A software engineer with strong interests for system programming, SDLC processes, and cloud computing.\
 > *(authorized to work for any employers in the US)*
 
-
 ----
+
+
 
 Education
 ---------
 
 2014-2018
-:   **BSc, Computer Science and Applied Math**: Brown University, Providence, RI
+:   **BSc, Computer Science and Applied Math**: *Brown University*, Providence, RI
 
-    *Courses:* Intro to Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography, Modern cryptography,
+    *Courses:* Intro to Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography, Modern Cryptography,
 Algorithms and Data Structures, Object-Oriented Programming, Probability Theory, Operations Research, Monte Carlo Simulation, Statistical Inference.
 
 Work Experience
@@ -25,21 +34,21 @@ Work Experience
 
 **Senior Software Engineer,** *[PreVeil](https://www.preveil.com)*, Boston, MA, 2020-Present
 
-* Lead the feature development and maintainance of PreVeil's drive, an e2e encrypted, cloud-based storage and file sharing system.
-    * Participate in architectural system design for PreVeil’s drive and its cryptographic key management.
-    * Modernize develepment with automated CI workflows that can be run locally as well as on GitHub action.
+* Lead the feature development and maintainance of PreVeil's drive, an e2e encrypted, cloud-based storage and file sharing system written in Golang.
+    * Participate in architectural system design for PreVeil’s drive websocket APIs and its cryptographic key management.
+    * Modernize develepment and its setup with automated CI workflows that can be run locally as well as on GitHub action.
     * Implement continuous profiling and APM hooks to the application that allow us to run scalibility testing and automatically collect usage and performance logs. 
-* Design and implement automated CI/CD/QA workflows for various components using GitHub actions that streamline our build and test pipeline, which leads to reduce bill time and faster deployment.
-* Work with other engineers to define and perform ongoing improvement on PreVeil’s SDLC around code review, QA, releaser process, security and automation.
+* Design and implement automated CI/CD/QA workflows for various components using GitHub actions that streamline our build and test pipeline, significantly reducing build time, VM cost and enabling faster on-demand deployment.
+* Work with other engineers to define and perform ongoing improvement on PreVeil’s SDLC around code review, QA, release process, security and automation.
 * Mentor junior engineers and interns by organizing bi-weekly seminars and 1:1 meetings.
 
 **Software Engineer,** *[PreVeil](https://www.preveil.com)*, Boston, MA, 2018-2020
 
-* Contributed to building, testing the secure email mailbox management APIs for PreVeil’s IMAP and Crypto servers written in Python to be compatible with
+* Contributed to implementing the secure email mailbox management APIs for PreVeil’s IMAP and Crypto servers written in Python to be compatible with
 PreVeil’s, Outlook and MacMail email clients.
 * Built a cache module that manages Email metadata access between Email’s DB and PreVeil’s crypto server and improves the Email’s
 server performance by 15%.
-* Triaged and debug software defects encountered by the customers.
+* Triaged and debugged software defects encountered by the customers.
 * Developed and tested various PreVeil’s FE UI components in Angular and RxJS.
 
 
@@ -81,11 +90,3 @@ to automatically register new buyers and generate a pending sale receipt.
 
 Programming Languages:
 : *golang, python, TypeScript, JavaScript, C*
-
-Misc
-----
-
-* Human Languages:
-
-    * English
-    * Khmer (native speaker)
