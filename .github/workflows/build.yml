@@ -27,7 +27,7 @@ jobs:
 
       - name: Build resume
         run: |
-          apt install pandoc context
+          sudo apt install pandoc context
           make pdf
 
       - name: Upload a Build Artifact
