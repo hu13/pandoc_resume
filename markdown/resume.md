@@ -38,7 +38,8 @@ Work Experience
     * Modernize develepment and its setup with automated CI workflows that can be run locally as well as on GitHub action.
     * Implement continuous profiling and APM hooks to the application that allow us to run scalibility testing and automatically collect usage and performance logs. 
 * Design and implement automated CI/CD/QA workflows for various components using GitHub actions that streamline our build and test pipeline, significantly reducing build time, VM cost and enabling faster on-demand deployment.
-* Work with other engineers to define and perform ongoing improvement on PreVeil’s SDLC around code review, QA, release process, security and automation.
+* Manage and deploy our staging backend server using k8s for integration tests.
+* Work with other engineers to define, formalize and perform ongoing improvement on PreVeil’s SDLC around code review, QA, release process, security and automation.
 * Mentor junior engineers and interns by organizing bi-weekly seminars and 1:1 meetings.
 
 **Software Engineer,** *[PreVeil](https://www.preveil.com)*, Boston, MA, 2018-2020
