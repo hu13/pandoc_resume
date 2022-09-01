@@ -8,8 +8,7 @@ mark{
     background-color: white;
 }
 </style>
-
-<mark><hangkun.ung@gmail.com> [@hu13](https://github.com/hu13) +1 (401) 837-8258, Cambridge, MA</mark>
+<mark><hangkun.ung@gmail.com> <a href=https://www.github.com/hu13 target=_blank>@hu13</a> +1 (401) 837-8258, Cambridge, MA</mark>
 
 ----
 
