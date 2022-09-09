@@ -22,10 +22,9 @@ mark{
 Education
 ---------
 
-2014-2018
-:   **BSc, Computer Science and Applied Math**: *Brown University*, Providence, RI
+**BSc, Computer Science and Applied Math**: *Brown University*, Providence, RI, 2014-2018
 
-    Courses: *Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography, Modern Cryptography, Algorithms and Data Structures, Object-Oriented Programming, Probability Theory, Operations Research, Monte Carlo Simulation, Statistical Inference.*
+Courses: *Software Engineering, Operating System, Computer Systems and Securities, Mathematical Cryptography, Modern Cryptography, Algorithms and Data Structures, Object-Oriented Programming, Probability Theory, Operations Research, Monte Carlo Simulation, Statistical Inference.*
 
 Work Experience
 ----------
@@ -78,7 +77,7 @@ Open Source:
     * *[fsnotify](https://github.com/fsnotify/fsnotify)*, a library providing cross-platform filesystem notifications.
 
 Tools:
-: *git, docker, linux, SQL, aws, GitHub action, bash, kubernetes, Postman, jira, confluence*\
+: *git, docker, linux, SQL, aws, GitHub action, bash, kubernetes, Postman, selenium, jest, angular, jira, confluence*\
 
 Side Projects:
 :   
